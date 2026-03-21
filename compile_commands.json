@@ -1,0 +1,12 @@
+[
+    {
+        "command": "cc -c -Iinclude -o main.out src/main.c",
+        "directory": "/home/cyrusgahatraj/Code/C/networking/http_server2",
+        "file": "/home/cyrusgahatraj/Code/C/networking/http_server2/src/main.c"
+    },
+    {
+        "command": "cc -c -Iinclude -o main.out src/server.c",
+        "directory": "/home/cyrusgahatraj/Code/C/networking/http_server2",
+        "file": "/home/cyrusgahatraj/Code/C/networking/http_server2/src/server.c"
+    }
+]
